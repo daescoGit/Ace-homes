@@ -2,7 +2,7 @@
 
 My first full stack web dev project, a real estate app.
 <br />
-Build primarily in PHP and vanilla js with json dummy data substituting a db.
+Build primarily in PHP with minor js implementations such as ajax and json dummy data substituting a db.
 
 Live version: https://daesco.dk/ace/
 
