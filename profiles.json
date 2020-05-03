@@ -1,0 +1,66 @@
+{
+    "users": {
+        "682758c8c5d6b553ca01": {
+            "email": "dan@mail.dk",
+            "password": "qwert123",
+            "firstname": "Dan",
+            "lastname": "Eskildsen",
+            "zip": "2860",
+            "phone": "99443322",
+            "verified": 1,
+            "profileType": "users",
+            "image": "images\/profileImageTest2.jpg",
+            "activationKey": "1a9d6c53e2c22d0ab0ae"
+        },
+        "e42788781927fd228b51": {
+            "email": "jmadsen@mail.com",
+            "password": "12341234",
+            "firstname": "Johnny",
+            "lastname": "Madsen",
+            "zip": "",
+            "phone": "",
+            "verified": 1,
+            "profileType": "users",
+            "image": "images\/defaultProfile.jpg",
+            "activationKey": "9fe20045f0e575ea6ad9"
+        }
+    },
+    "agents": {
+        "12f3dc7bacaf57b8a14f": {
+            "email": "bobby@b.dk",
+            "password": "bobby123",
+            "firstname": "Robert",
+            "lastname": "Baratheon",
+            "zip": "2700",
+            "phone": "28604545",
+            "verified": 1,
+            "profileType": "agents",
+            "image": "images\/profileImageTest4.jpg",
+            "activationKey": "b7f9d489e5c6fba59ceb"
+        },
+        "7b4c66106e8cc69146e1": {
+            "email": "jeppe@k.dk",
+            "password": "password123",
+            "firstname": "Jeppe",
+            "lastname": "Kristansen",
+            "zip": "",
+            "phone": "88995544",
+            "verified": 1,
+            "profileType": "agents",
+            "image": "images\/profileImageTest5.jpg",
+            "activationKey": "28751929a4b7452cbe9b"
+        },
+        "49e7f4515cbe5945c224": {
+            "email": "Johnny@mail.com",
+            "password": "john123",
+            "firstname": "Johnny",
+            "lastname": "Cash",
+            "zip": "2525",
+            "phone": "88664422",
+            "verified": 1,
+            "profileType": "agents",
+            "image": "images\/johnnycash.jpg",
+            "activationKey": "f46d1037180bca0a08e8"
+        }
+    }
+}

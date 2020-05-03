@@ -1,0 +1,299 @@
+[
+    {
+        "id": "P1",
+        "geometry": {
+            "coordinates": [
+                12.556166,
+                55.7
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "iconSize": [
+                20,
+                20
+            ],
+            "message": "Foo"
+        },
+        "type": "Feature",
+        "image": "images\/cozy-house.jpg",
+        "price": "452006",
+        "bds": "3",
+        "ba": "1",
+        "m2": "255",
+        "zip": "2200",
+        "seller": "12f3dc7bacaf57b8a14f",
+        "address": "Somestreet, 42",
+        "city": "K\u00f8benhavn K"
+    },
+    {
+        "id": "P2",
+        "geometry": {
+            "coordinates": [
+                12.546264,
+                55.6939497
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "iconSize": [
+                20,
+                20
+            ],
+            "message": "Foo"
+        },
+        "type": "Feature",
+        "image": "images\/good-location.jpg",
+        "price": "12332",
+        "bds": "3",
+        "ba": "2",
+        "m2": "450",
+        "zip": "2200",
+        "seller": "7b4c66106e8cc69146e1",
+        "address": "Randomlane 128",
+        "city": "K\u00f8benhavn N"
+    },
+    {
+        "id": "P3",
+        "geometry": {
+            "coordinates": [
+                12.5186511,
+                55.7312959
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "iconSize": [
+                20,
+                20
+            ],
+            "message": "Foo"
+        },
+        "type": "Feature",
+        "image": "images\/just-another-place.jpg",
+        "price": "521521",
+        "bds": "1",
+        "ba": "1",
+        "m2": "150",
+        "zip": "2860",
+        "seller": "12f3dc7bacaf57b8a14f",
+        "address": "Juni alle 68",
+        "city": "S\u00f8borg"
+    },
+    {
+        "id": "P4",
+        "geometry": {
+            "coordinates": [
+                12.5142777,
+                55.6773782
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "iconSize": [
+                20,
+                20
+            ],
+            "message": "Foo"
+        },
+        "type": "Feature",
+        "image": "images\/inside-1.jpg",
+        "price": "8888",
+        "bds": "4",
+        "ba": "1",
+        "m2": "350",
+        "zip": "2000",
+        "seller": "7b4c66106e8cc69146e1",
+        "address": "Good olstreet 123",
+        "city": "Frederiksberg"
+    },
+    {
+        "id": "P5",
+        "geometry": {
+            "coordinates": [
+                12.5470455,
+                55.6675708
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "iconSize": [
+                20,
+                20
+            ],
+            "message": "Foo"
+        },
+        "type": "Feature",
+        "image": "images\/great-neighbourhood.jpg",
+        "price": "425552",
+        "bds": "1",
+        "ba": "1",
+        "m2": "350",
+        "zip": "1799",
+        "seller": "12f3dc7bacaf57b8a14f",
+        "address": "Imagination avenue 2",
+        "city": "K\u00f8benhavn V"
+    },
+    {
+        "id": "P6",
+        "geometry": {
+            "coordinates": [
+                12.4949858,
+                55.6879126
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "iconSize": [
+                20,
+                20
+            ],
+            "message": "Foo"
+        },
+        "type": "Feature",
+        "image": "images\/luxury-home.jpg",
+        "price": "235552",
+        "bds": "2",
+        "ba": "3",
+        "m2": "650",
+        "zip": "2720",
+        "seller": "7b4c66106e8cc69146e1",
+        "address": "Landingsbane 1",
+        "city": "Kastrup"
+    },
+    {
+        "id": "P7",
+        "geometry": {
+            "coordinates": [
+                12.6060249,
+                55.6511253
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "iconSize": [
+                20,
+                20
+            ],
+            "message": "Foo"
+        },
+        "type": "Feature",
+        "image": "images\/regular-house.jpg",
+        "price": "14252",
+        "bds": "0",
+        "ba": "3",
+        "m2": "20",
+        "zip": "2770",
+        "seller": "12f3dc7bacaf57b8a14f",
+        "address": "Greatstreet 7",
+        "city": "Vanl\u00f8se"
+    },
+    {
+        "id": "P8",
+        "geometry": {
+            "coordinates": [
+                12.5777471,
+                55.7029253
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "iconSize": [
+                20,
+                20
+            ],
+            "message": "Foo"
+        },
+        "type": "Feature",
+        "image": "images\/sweet-crib.jpg",
+        "price": "233411",
+        "bds": "2",
+        "ba": "8",
+        "m2": "105",
+        "zip": "2100",
+        "seller": "7b4c66106e8cc69146e1",
+        "address": "Juhulane 22",
+        "city": "K\u00f8benhavn \u00d8"
+    },
+    {
+        "id": "6f1bc89b3ab1eb6f8afa",
+        "geometry": {
+            "coordinates": [
+                12.4858045,
+                55.687405
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "iconSize": [
+                20,
+                20
+            ],
+            "message": "Foo"
+        },
+        "type": "Feature",
+        "image": "images\/testimgcastle.jpg",
+        "price": "70500",
+        "bds": "4",
+        "ba": "2",
+        "m2": "674",
+        "zip": "2720",
+        "seller": "12f3dc7bacaf57b8a14f",
+        "address": "Vanl\u00f8sevej 23",
+        "city": "Vanl\u00f8se"
+    },
+    {
+        "id": "e54576a6ca638f03252b",
+        "geometry": {
+            "coordinates": [
+                12.5491118,
+                55.7401334
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "iconSize": [
+                20,
+                20
+            ],
+            "message": "Foo"
+        },
+        "type": "Feature",
+        "image": "images\/unique-beautiful-house.jpg",
+        "price": "52800",
+        "bds": "5",
+        "ba": "2",
+        "m2": "5223",
+        "zip": "2000",
+        "seller": "49e7f4515cbe5945c224",
+        "address": "Nice street 45",
+        "city": "Gentofte"
+    },
+    {
+        "id": "22f4f71f975f245fbb21",
+        "geometry": {
+            "coordinates": [
+                12.4886829,
+                55.7414806
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "iconSize": [
+                20,
+                20
+            ],
+            "message": "Foo"
+        },
+        "type": "Feature",
+        "image": "images\/Ranch-from-SW.jpg",
+        "price": "6544423",
+        "bds": "3",
+        "ba": "3",
+        "m2": "242",
+        "zip": "2680",
+        "seller": "49e7f4515cbe5945c224",
+        "address": "Ranch lane 1",
+        "city": "Buddinge"
+    }
+]
